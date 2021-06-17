@@ -546,8 +546,7 @@
       </div>
     </section><!-- End Portfolio Section -->
 
-    <!-- ======= Our Clients Section ======= -->
-    <section id="clients">
+    <!-- ======= Our Clients Section 
       <div class="container" data-aos="zoom-in">
 
         <header class="section-header">
@@ -762,7 +761,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Téléphone</h3>
-              <p><a href="tel:+243825995446">+243 825 995 446</a></p>
+              <p><a href="tel:+243825995446">+243 975 634 511</a></p>
             </div>
           </div>
 
@@ -770,7 +769,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@inuacongo.com</a></p>
+              <p><a href="mailto:info@example.com">inuacongo@gmail.com</a></p>
             </div>
           </div>
 
@@ -834,8 +833,8 @@
               Quartier Rombe II <br>
               Avenue Fizi, <br>
               République Démocratique du Congo<br>
-              <strong>Numéro de téléphone:</strong> +243 825 995 446<br>
-              <strong>Email:</strong> info@inuacongo.com<br>
+              <strong>Numéro de téléphone:</strong> +243 975 634 511<br>
+              <strong>Email:</strong> inuacongo@gmail.com<br>
             </p>
 
             <div class="social-links">
