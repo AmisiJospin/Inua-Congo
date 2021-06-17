@@ -454,13 +454,13 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/mob_two.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/mob_two.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
+              <img src="assets/img/portfolio/mob_two.JPG" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/mob_two.JPG" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Séance a la radio RTNC</a></h4>
+              <h4><a href="portfolio-details.html">Séance sur la radio RTNC</a></h4>
               <p>RTNC</p>
             </div>
           </div>
@@ -514,8 +514,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/mob_four.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/mob_four.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
+              <img src="assets/img/portfolio/mob_four.JPG" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/mob_four.JPG" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
