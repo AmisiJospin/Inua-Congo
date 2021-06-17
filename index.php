@@ -50,7 +50,7 @@
             <ul>
               <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
               <li><a class="nav-link scrollto" href="#about">A propos</a></li>
-              <li><a class="nav-link scrollto" href="#services">Services</a></li>
+              <!--<li><a class="nav-link scrollto" href="#services">Services</a></li>-->
               <li><a class="nav-link scrollto " href="#portfolio">activités</a></li>
               <li><a class="nav-link scrollto" href="#team">Team</a></li>
               <!--<li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -123,17 +123,18 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Notre mission</h2>
-                <p class="animate__animated animate__fadeInUp">La protection et le développement des jeunes en difficultés.</p>
+                <p class="animate__animated animate__fadeInUp">Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes a travers des activités Entrepreneuriales.</p>
                 <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/55.jpeg)">
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/vision_slide.jpeg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Notre vision</h2>
-                <p class="animate__animated animate__fadeInUp">Inua Congo asbl a pour vision de voir la République Démocratique du Congo, un Etat de droit où les valeurs juvéniles sont respectées et les jeunes participent sans discriminations dans le processus de prise de décision.</p>
+                <p class="animate__animated animate__fadeInUp">Inua Congo asbl a pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent a 
+                l'education de qualité, les femmes et filles sont libérées de l'extreme pauvreté.</p>
                 <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
@@ -163,19 +164,23 @@
           <div class="col-lg-4 box">
             <i class="bi bi-briefcase"></i>
             <h4 class="title"><a href="">L'éducation</a></h4>
-            <p class="description">Nous faisons de formations avec les éleves des écoles primaires secondaires et universitaires.</p>
+            <p class="description">Nous sommes entrain de lutter contre l'extrême pauvreté chez les jeunes femmes et nous mettons 
+            à la disposition des filles et autres enfants vulnérables, des moyens nécessaires pour garantir leur participation
+             à l'éducation de qualité.</p>
           </div>
 
           <div class="col-lg-4 box box-bg">
             <i class="bi bi-card-checklist"></i>
             <h4 class="title"><a href="">La mobilisation</a></h4>
-            <p class="description">Nous effectuons aussi des campagnes des sensibilisations et mobilisations de la population d'Uvira.</p>
+            <p class="description">Les femmes qui bénéficient de nos formations arrivent à créer leurs propres activités
+             rémunératrices de revenus. Ceci a pour effet de réduire sensiblement le le taux de pauvreté extrême dans leur vie.</p>
           </div>
 
           <div class="col-lg-4 box">
             <i class="bi bi-binoculars"></i>
-            <h4 class="title"><a href="">L'agriculture</a></h4>
-            <p class="description">Pour bien soutenir nos projects, nous cultivons aussi les maniocs et mais dans la plaine de la Ruzizi.</p>
+            <h4 class="title"><a href="">L'impacte</a></h4>
+            <p class="description">Inua Congo est encore une jeune organisation qui essaie de faire un impact dans la communauté 
+            par l'ouverture des opportunités de formations pour en entrepreneuriat pour ses bénéficiaires.</p>
           </div>
 
         </div>
@@ -188,11 +193,13 @@
 
         <header class="section-header">
           <h3>A Propos de nous</h3>
-          <p>Il est créé en date du 15 octobre 2019, conformément aux dispositions de la loi no 004/2001
+          <p>Il est créé en date du 15 octobre 2018, conformément aux dispositions de la loi no 004/2001
 			du 21 juillet 2001 portant dispositions générales applicables aux associations confessionnelles 
 			et non confessionnelles et aux établissements d’utilité publique en République Démocratique du Congo,
 			entre les personnes qui adhèrent aux présents statuts, une association ayant pour dénomination
-			«Inua Congo asbl».</p>
+			«Inua Congo asbl». Nous organisons des formations en entrepreneuriat pour l'autonomisation économique des 
+      femmes et filles. Inua Congo lie d'étroites relations avec des bienfaiteurs pour la prise en charge 
+      scolaires des filles et autres enfants vulnérables.</p>
         </header>
 
         <div class="row about-cols">
@@ -200,13 +207,13 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
             <div class="about-col">
               <div class="img">
-                <img src="assets/img/mission.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/mission_one.jpeg" alt="" class="img-fluid">
                 <div class="icon"><i class="bi bi-bar-chart"></i></div>
               </div>
               <h2 class="title"><a href="#">Notre Mission</a></h2>
               <p>
-                La protection et le développement des jeunes en. La protection et le développement des jeunes en difficultés. La protection et le développement des jeunes en difficultés. La protection et le développement des jeunes.
-			   </p>
+                Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes a travers des activités Entrepreneuriales.
+			       </p>
             </div>
           </div>
 
@@ -216,9 +223,9 @@
                 <img src="assets/img/objectif.jpeg" alt="" class="img-fluid">
                 <div class="icon"><i class="bi bi-brightness-high"></i></div>
               </div>
-              <h2 class="title"><a href="#">Nos Objectifs</a></h2>
+              <h2 class="title"><a href="#">Notre nature</a></h2>
               <p>
-                Plaider pour les droits des jeunes afin d’assurer leur intégration dans le processus de prise de décision; Encadrement et renforcement des capacités des jeunes en matière de leadership et de redevabilité.  
+              Inua Congo asbl est une association laïque à caractère public et à but non lucratif, elle se réserve le droit de s’affilier à tout réseau œuvrant dans les mêmes domaines.  
               </p>
             </div>
           </div>
@@ -231,9 +238,8 @@
               </div>
               <h2 class="title"><a href="#">Notre Vision</a></h2>
               <p>
-                Inua Congo asbl a pour vision de voir la République Démocratique du Congo, un Etat de droit où 
-				les valeurs juvéniles sont respectées et les jeunes participent sans discriminations dans le 
-				processus de prise de décision.
+                Inua Congo asbl a pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent a 
+                l'education de qualité, les femmes et filles sont libérées de l'extreme pauvreté.
               </p>
             </div>
           </div>
@@ -243,7 +249,7 @@
       </div>
     </section><!-- End About Us Section -->
 
-    <!-- ======= Services Section ======= -->
+    <!-- ======= Services Section 
     <section id="services">
       <div class="container" data-aos="fade-up">
 
@@ -282,13 +288,13 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title"><a href="">Elevage</a></h4>
-            <p class="description">L'elevage de gros betails est l'une de projets que nous effectuons dans la plaine de la Ruzizi.</p>
+            <p class="description">L'élevage de gros bétails est l'une de projets que nous effectuons dans la plaine de la Ruzizi.</p>
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section> End Services Section -->
 
     <!-- ======= Call To Action Section ======= -->
    <!--  -- ><section id="call-to-action">
@@ -339,7 +345,7 @@
       </div>
     </section><!-- End Skills Section -->
 
-    <!-- ======= Facts Section ======= -->
+    <!-- ======= Facts Section 
     <section id="facts">
       <div class="container" data-aos="fade-up">
 
@@ -387,7 +393,7 @@
           <h3 class="section-title">Nos activités</h3>
         </header>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100"">
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class=" col-lg-12">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">Tout</li>
@@ -579,7 +585,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_one.jpeg" class="testimonial-img" alt="">
-                <h3>Djuma Hassan</h3>
+                <h3>Djuma Fataki</h3>
                 <h4>DG &amp; Fondateur</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -592,7 +598,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_two.JPG" class="testimonial-img" alt="">
-                <h3>Omari Hassan</h3>
+                <h3>Carmel Bertin</h3>
                 <h4>Professeur</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -605,7 +611,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_three.JPG" class="testimonial-img" alt="">
-                <h3>Bitisho Hassan</h3>
+                <h3>Bitisho Chaltine</h3>
                 <h4>Psychologue</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -626,8 +632,7 @@
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
-            </div><!-- End testimonial item -->
-
+            </div><!-- End testimonial item 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_one.jpeg" class="testimonial-img" alt="">
@@ -660,7 +665,6 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/team_one.jpeg" class="img-fluid" alt="" width="400" height="400">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Njonjo Hassan</h4>
@@ -676,12 +680,30 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-3 col-md-8">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/team_three.JPG" class="img-fluid" alt="" width="400" height="400">
+            <img src="assets/img/team_un.jpeg" class="img-fluid" alt="" width="400" height="400">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Shabani Hassan</h4>
+                  <h4>Daniella Hassan</h4>
+                  <span>Directrice Générale</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-8">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <img src="assets/img/team-deux.jpeg" class="img-fluid" alt="" width="400" height="400">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Florence Tatu</h4>
                   <span>Chargé de Finance</span>
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
@@ -695,26 +717,8 @@
           </div>
 
           <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/team_two.JPG" class="img-fluid" alt="" width="400" height="400">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Fikiri Hassan</h4>
-                  <span>Informaticien</span>
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets/img/team_four.jpg" class="img-fluid" alt="" width="400" height="400">
+              
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Faida Hassan</h4>
@@ -818,7 +822,7 @@
             <ul>
               <li><i class="bi bi-chevron-right"></i> <a href="#hero">Accueil</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#about">A propos de nous</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#services">Nos Services</a></li>
+              <!--<li><i class="bi bi-chevron-right"></i> <a href="#services">Nos Services</a></li>-->
               <li><i class="bi bi-chevron-right"></i> <a href="#portfolio">Nos activités</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#team">Notre équipe</a></li>
             </ul>
