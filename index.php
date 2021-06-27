@@ -5,8 +5,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Inua Congo</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Inua Congo, République Démocratique du Congo" name="description">
+  <meta content="Inua Congo" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/logo.jpeg" rel="icon">
@@ -123,7 +123,7 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Notre mission</h2>
-                <p class="animate__animated animate__fadeInUp">Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes a travers des activités Entrepreneuriales.</p>
+                <p class="animate__animated animate__fadeInUp">Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes à travers des activités Entrepreneuriales.</p>
                 <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
@@ -133,7 +133,7 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Notre vision</h2>
-                <p class="animate__animated animate__fadeInUp">Inua Congo asbl a pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent a 
+                <p class="animate__animated animate__fadeInUp">Inua Congo asbl à pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent à 
                 l'education de qualité, les femmes et filles sont libérées de l'extreme pauvreté.</p>
                 <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
@@ -173,7 +173,7 @@
             <i class="bi bi-card-checklist"></i>
             <h4 class="title"><a href="">La mobilisation</a></h4>
             <p class="description">Les femmes qui bénéficient de nos formations arrivent à créer leurs propres activités
-             rémunératrices de revenus. Ceci a pour effet de réduire sensiblement le le taux de pauvreté extrême dans leur vie.</p>
+             rémunératrices de revenus. Ceci à pour effet de réduire sensiblement le taux de pauvreté extrême dans leur vie.</p>
           </div>
 
           <div class="col-lg-4 box">
@@ -193,10 +193,10 @@
 
         <header class="section-header">
           <h3>A Propos de nous</h3>
-          <p>Il est créé en date du 15 octobre 2018, conformément aux dispositions de la loi no 004/2001
+          <p>Il est créé conformément aux dispositions de la loi no 004/2001
 			du 21 juillet 2001 portant dispositions générales applicables aux associations confessionnelles 
 			et non confessionnelles et aux établissements d’utilité publique en République Démocratique du Congo,
-			entre les personnes qui adhèrent aux présents statuts, une association ayant pour dénomination
+			entre les personnes qui adhèrent à ses statuts, une association ayant pour dénomination
 			«Inua Congo asbl». Nous organisons des formations en entrepreneuriat pour l'autonomisation économique des 
       femmes et filles. Inua Congo lie d'étroites relations avec des bienfaiteurs pour la prise en charge 
       scolaires des filles et autres enfants vulnérables.</p>
@@ -212,7 +212,7 @@
               </div>
               <h2 class="title"><a href="#">Notre Mission</a></h2>
               <p>
-                Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes a travers des activités Entrepreneuriales.
+                Promotion de l'éducation de qualité et inclusive, Réduction de la pauvreté chez les filles et femmes à travers des activités Entrepreneuriales.
 			       </p>
             </div>
           </div>
@@ -238,7 +238,7 @@
               </div>
               <h2 class="title"><a href="#">Notre Vision</a></h2>
               <p>
-                Inua Congo asbl a pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent a 
+                Inua Congo asbl a pour vision de voir la République Démocratique du Congo un Etat où tous les enfants accedent à 
                 l'education de qualité, les femmes et filles sont libérées de l'extreme pauvreté.
               </p>
             </div>
@@ -585,10 +585,10 @@
               <div class="testimonial-item">
                 <img src="assets/img/team_one.jpeg" class="testimonial-img" alt="">
                 <h3>Djuma Fataki</h3>
-                <h4>DG &amp; Fondateur</h4>
+                <h4>Directeur Général &amp; Fondateur</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Aujourd’hui Dieu est mon ami. Je sais qu’il partage mon quotidien, la joie comme les difficultés, qu’il est avec moi dans tout ce que j’entreprends, que je peux compter sur lui à chaque instant.
+                  Je ne savais pas si ses enfants pourraient faire une telle initiative dans la ville d'Uvira, elles sont toujours courageuses quand t'on parle du dévéloppement des jeunes filles.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -597,11 +597,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_two.JPG" class="testimonial-img" alt="">
-                <h3>Carmel Bertin</h3>
+                <h3>Carmel Bisimwa</h3>
                 <h4>Professeur</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Je découvris que j’avais de la valeur aux yeux de Dieu, qu’il m’aimait au point d’avoir donné son Fils pour moi, de l’avoir fait mourir sur une croix pour toutes mes fautes, pour mon péché.
+                  Mes propres étudiantes que j'ai donné cours aux humanités, aujourd'hui, elles sont prêtes pour aider les autres filles et femmes de s'en sortir facilement dans leur vie.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -610,11 +610,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/team_three.JPG" class="testimonial-img" alt="">
-                <h3>Bitisho Chaltine</h3>
+                <h3>Chaltin Zulu</h3>
                 <h4>Psychologue</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Quand je m’adresse à lui, je le tutoie comme je fais avec tous ceux que j’aime. Cette amitié profonde et véritable qui nous unit est basée sur la fidélité, l’amour et le pardon.  Ne voudrais-tu pas, toi aussi, le connaître?
+                  La vie nour réserve toujours de surprises, ces enfants sont prêtes à dévélopper la vie d'Uvira, vraiment je suis fier d'elles.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -627,7 +627,7 @@
                 <h4>Freelancer</h4>
                 <p>
                   <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Dès mon plus jeune âge, j’ai entendu parler de Dieu et de la personne de Jésus-Christ par mes parents qui ont eux-mêmes une foi vivante.
+                  Je ne savais pas si ces jeunes filles pourraient aller plus loin lorsqu'elles m'ont présenté cette idée, par contre elles m'ont prouvé le contraire.
                   <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -849,7 +849,7 @@
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Nos nouveautés</h4>
-            <p>Inscrivez-vous pour recevoir les nouvelles et les mises a jour de notre organisation.</p>
+            <p>Inscrivez-vous pour recevoir les nouvelles et les mises à jour de notre organisation.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="S'inscrire">
             </form>
