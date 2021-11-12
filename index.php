@@ -1,3 +1,13 @@
+<!--
+
+Developed: Jospin Amisi
+Version: 1.0.0
+Phone number: +265992129078
+Location: Lilongwe, Area 3, Tsiranana Avenue
+Since it is the first version, the second one will be in Django
+
+-->
+
 <!DOCTYPE html>
 <head>
   <html lang="en">
